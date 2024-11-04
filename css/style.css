@@ -15,7 +15,7 @@
 
 /* border box model: https://css-tricks.com/box-sizing/ */
 * {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 html {
   box-sizing: border-box;
